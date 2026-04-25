@@ -1,0 +1,111 @@
+{
+  "totalFiles": 17,
+  "totalDuration": "01:19:58",
+  "icon": "https://cdn.jsdelivr.net/gh/isev01/icon@main/sami.png",
+  "sec_ar": "سامي يوسف",
+  "sec_en": "Sami Yusuf",
+  "files": [
+    {
+      "id": "01",
+      "ar": "أتيتني",
+      "en": "Ataytani",
+      "duration": "04:00"
+    },
+    {
+      "id": "02",
+      "ar": "الفقير",
+      "en": "Al-faqir",
+      "duration": "04:15"
+    },
+    {
+      "id": "03",
+      "ar": "الله اكبر",
+      "en": "Allahu akbar",
+      "duration": "05:09"
+    },
+    {
+      "id": "04",
+      "ar": "المصدر",
+      "en": "Al-masdar",
+      "duration": "03:43"
+    },
+    {
+      "id": "05",
+      "ar": "رثاء",
+      "en": "Ritha",
+      "duration": "04:11"
+    },
+    {
+      "id": "06",
+      "ar": "صلوا عليه شفيع الأمة",
+      "en": "Sallu alayhi shafi' al-umma",
+      "duration": "02:09"
+    },
+    {
+      "id": "07",
+      "ar": "طه",
+      "en": "Taha",
+      "duration": "05:22"
+    },
+    {
+      "id": "08",
+      "ar": "عرفت الهوى مذ عرفت هواك",
+      "en": "Araftu al-hawa mundh araftu hawak",
+      "duration": "02:44"
+    },
+    {
+      "id": "09",
+      "ar": "فيياشيا",
+      "en": "Fiyyashiyya",
+      "duration": "08:08"
+    },
+    {
+      "id": "10",
+      "ar": "لا اله إلا الله",
+      "en": "La ilaha illa Allah",
+      "duration": "04:33"
+    },
+    {
+      "id": "11",
+      "ar": "مدد",
+      "en": "Madad",
+      "duration": "06:40"
+    },
+    {
+      "id": "12",
+      "ar": "مولانا",
+      "en": "Mawlana",
+      "duration": "04:13"
+    },
+    {
+      "id": "13",
+      "ar": "همزية",
+      "en": "Hamziyya",
+      "duration": "09:02"
+    },
+    {
+      "id": "14",
+      "ar": "يا الله يا رحمن",
+      "en": "Ya Allah ya Rahman",
+      "duration": "02:17"
+    },
+    {
+      "id": "15",
+      "ar": "يا حي يا قيوم",
+      "en": "Ya Hayyu ya Qayyum",
+      "duration": "03:33"
+    },
+    {
+      "id": "16",
+      "ar": "يا نبي",
+      "en": "Ya Nabi",
+      "duration": "05:16"
+    },
+    {
+      "id": "17",
+      "ar": "يارسول الله",
+      "en": "Ya Rasul Allah",
+      "duration": "04:43"
+    }
+  ]
+}
