@@ -9,103 +9,154 @@
       "id": "1",
       "ar": "أتيتني",
       "en": "Ataytani",
-      "duration": "04:00"
+      "duration": "04:00",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "2",
       "ar": "الفقير",
       "en": "Al-faqir",
-      "duration": "04:15"
+      "duration": "04:15",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "3",
       "ar": "الله اكبر",
       "en": "Allahu akbar",
-      "duration": "05:09"
+      "duration": "05:09",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "4",
       "ar": "المصدر",
       "en": "Al-masdar",
-      "duration": "03:43"
+      "duration": "03:43",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "5",
       "ar": "رثاء",
       "en": "Ritha",
-      "duration": "04:11"
+      "duration": "04:11",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "6",
       "ar": "صلوا عليه شفيع الأمة",
       "en": "Sallu alayhi shafi' al-umma",
-      "duration": "02:09"
+      "duration": "02:09",
+      "type_ar": "حماسي",
+      "type_en": "energetic",
+      "type_tr": "enerjik"
     },
     {
       "id": "7",
       "ar": "طه",
       "en": "Taha",
-      "duration": "05:22"
+      "duration": "05:22",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "8",
       "ar": "عرفت الهوى مذ عرفت هواك",
       "en": "Araftu al-hawa mundh araftu hawak",
-      "duration": "02:44"
+      "duration": "02:44",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "9",
       "ar": "فيياشيا",
       "en": "Fiyyashiyya",
-      "duration": "08:08"
+      "duration": "08:08",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "10",
       "ar": "لا اله إلا الله",
       "en": "La ilaha illa Allah",
-      "duration": "04:33"
+      "duration": "04:33",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "11",
       "ar": "مدد",
       "en": "Madad",
-      "duration": "06:40"
+      "duration": "06:40",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "12",
       "ar": "مولانا",
       "en": "Mawlana",
-      "duration": "04:13"
+      "duration": "04:13",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "13",
       "ar": "همزية",
       "en": "Hamziyya",
-      "duration": "09:02"
+      "duration": "09:02",
+      "type_ar": "حزين",
+      "type_en": "sad",
+      "type_tr": "hüzünlü"
     },
     {
       "id": "14",
       "ar": "يا الله يا رحمن",
       "en": "Ya Allah ya Rahman",
-      "duration": "02:17"
+      "duration": "02:17",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "15",
       "ar": "يا حي يا قيوم",
       "en": "Ya Hayyu ya Qayyum",
-      "duration": "03:33"
+      "duration": "03:33",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "16",
       "ar": "يا نبي",
       "en": "Ya Nabi",
-      "duration": "05:16"
+      "duration": "05:16",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     },
     {
       "id": "17",
       "ar": "يارسول الله",
       "en": "Ya Rasul Allah",
-      "duration": "04:43"
+      "duration": "04:43",
+      "type_ar": "هادئ",
+      "type_en": "calm",
+      "type_tr": "sakin"
     }
   ]
 }
